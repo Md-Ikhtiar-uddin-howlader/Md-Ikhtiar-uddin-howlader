@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Ikhtiar 👋
+**Front-End Developer | React.js • JavaScript • Data Visualization**
 
-<!--
-**Md-Ikhtiar-uddin-howlader/Md-Ikhtiar-uddin-howlader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build responsive web and mobile interfaces and turn data into clear dashboards.
+Based in Kuala Lumpur, Malaysia. Open to remote opportunities.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Front-End:** React.js, JavaScript (ES6+), HTML5, CSS3
+- **Back-End & Mobile:** PHP, Laravel, Flutter, Dart
+- **Data & Tools:** SQL, MySQL, MongoDB, Power BI, Tableau, Git/GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- **Donate For Climate Change:** React.js fundraising and awareness app
+- **Easy Tour:** Laravel/PHP platform to discover and book tourist destinations in Malaysia
+- **Queueing Management App:** Flutter app with role-based login and live queue dashboards
+- **Meat Bazar:** real-time web platform for vendor and supply chain management
+
+## 🎓 Education
+MBIA (current) and B.IT (Hons) in Business Intelligence, IIUM
+
+## 📫 Contact
+mdikhtiaruddinhowlader@gmail.com
